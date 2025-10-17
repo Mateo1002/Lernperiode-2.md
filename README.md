@@ -22,7 +22,10 @@ Alle begonnenen Projekte beenden.
 - Vielleicht noch ein bisschen an meinem jetztigen Projekt arbeiten.
 
 ## 17.10.2025
-
-
+Ich konnte noch einige der begonnenen Aufträge abschliessen und viele welche ich schon beendet habe auffindig machen und
+ abgeben aber leider konnte ich nicht alles fertig machen und konnte nicht an meinem Projekt arbeiten
+ 
 ## Planung 24.10.2025
-
+- Vielleicht ein bisschen an den neuen Modulen vorarbeiten
+- Die neuen Module erkunden und herausfinden was wir alles lernen werden.
+- An meinem Projekt weiterarbeiten
