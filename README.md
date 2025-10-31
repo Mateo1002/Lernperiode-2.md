@@ -1,7 +1,7 @@
 # Lernperiode-2.md
 Name: Mateo Röthenmund
 
-17.10.2025 bis ..
+17.10.2025 bis 19.12.2025
 
 ## Grob-Planung
 ### Noten
@@ -26,14 +26,25 @@ Ich konnte noch einige der begonnenen Aufträge abschliessen und viele welche ic
  abgeben aber leider konnte ich nicht alles fertig machen und konnte nicht an meinem Projekt arbeiten
  
 ## Planung 24.10.2025
-- Vielleicht ein bisschen an den neuen Modulen vorarbeiten
+- Vielleicht ein bisschen an den neuen Modulen vorarbeiten.
 - Die neuen Module erkunden und herausfinden was wir alles lernen werden.
-- An meinem Projekt weiterarbeiten
+- An meinem Projekt weiterarbeiten.
 
 ## 24.10.2025
 Ich konnte nicht weiterarbeiten da ich krank war.
 
 ## Planung 31.10.2025
-- Vielleicht ein bisschen an den neuen Modulen vorarbeiten
-- Die neuen Module erkunden und herausfinden was wir alles lernen werden.
-- Die Planung des IMS-Projektes beenden
+- [x] Vielleicht ein bisschen an den neuen Modulen vorarbeiten.
+- [x] Die neuen Module erkunden und herausfinden was wir alles lernen werden.
+- [x] Die Planung des IMS-Projektes beenden.
+
+## 31.10.2025
+Ich habe die Planung für das IMS-Projekt beendet. Ich habe zwei Aufgaben für das Modul 162 beendet welche ich noch nachholen musste und zwei weitere habe ich im voraus erledigt. Das Arbeiten am Modul ging gut voran aber für die Planung musste ich die Dateien durchsuchen um herauszufinden was zu tun sei.
+
+## Planung 7.11.2025
+- [ ] Die Modularbeit nachholen.
+- [ ] Falls noch übrige Entscheidungen am IMS-Projekt getroffen werden müssen über diese recherchieren und dann die Entscheidung treffen.
+- [ ] Falls die Entscheidungen getroffen wurden und alles in Ordnung ist mit dem Programmieren beginnen.
+
+## 7.11.2025
+
