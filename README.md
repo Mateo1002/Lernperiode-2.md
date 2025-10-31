@@ -29,3 +29,11 @@ Ich konnte noch einige der begonnenen Aufträge abschliessen und viele welche ic
 - Vielleicht ein bisschen an den neuen Modulen vorarbeiten
 - Die neuen Module erkunden und herausfinden was wir alles lernen werden.
 - An meinem Projekt weiterarbeiten
+
+## 24.10.2025
+Ich konnte nicht weiterarbeiten da ich krank war.
+
+## Planung 31.10.2025
+- Vielleicht ein bisschen an den neuen Modulen vorarbeiten
+- Die neuen Module erkunden und herausfinden was wir alles lernen werden.
+- Die Planung des IMS-Projektes beenden
