@@ -42,9 +42,14 @@ Ich konnte nicht weiterarbeiten da ich krank war.
 Ich habe die Planung für das IMS-Projekt beendet. Ich habe zwei Aufgaben für das Modul 162 beendet welche ich noch nachholen musste und zwei weitere habe ich im voraus erledigt. Das Arbeiten am Modul ging gut voran aber für die Planung musste ich die Dateien durchsuchen um herauszufinden was zu tun sei.
 
 ## Planung 7.11.2025
-- [ ] Die Modularbeit nachholen.
-- [ ] Falls noch übrige Entscheidungen am IMS-Projekt getroffen werden müssen über diese recherchieren und dann die Entscheidung treffen.
+- [x] Die Modularbeit nachholen.
+- [x] Falls noch übrige Entscheidungen am IMS-Projekt getroffen werden müssen über diese recherchieren und dann die Entscheidung treffen.
 - [ ] Falls die Entscheidungen getroffen wurden und alles in Ordnung ist mit dem Programmieren beginnen.
 
 ## 7.11.2025
+Ich habe am Modul noch einen Auftrag nachholen müssen und habe ein bisschen vorgearbeitet. Für das Projekt konnten alle Entscheidungen getroffen werden doch wir hatten nicht genug Zeit um mit dem Programmieren zu beginnen. Noch zu beginnen ist der PAP für das Projekt welchen wir nächstes mal abgeben müssen.
 
+## Planung 14.11.2025
+- [ ] Am Modul vorarbeiten
+- [ ] Mit der Recherche fürs programmieren weiterarbeiten
+- [ ] Am Projekt programmieren
