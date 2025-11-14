@@ -51,5 +51,13 @@ Ich habe am Modul noch einen Auftrag nachholen müssen und habe ein bisschen vor
 
 ## Planung 14.11.2025
 - [ ] Am Modul vorarbeiten
-- [ ] Mit der Recherche fürs programmieren weiterarbeiten
-- [ ] Am Projekt programmieren
+- [x] Mit der Recherche fürs programmieren weiterarbeiten
+- [x] Am Projekt programmieren
+
+## 14.11.2025
+Am Modul habe ich nicht weitergearbeitet da ich realisiert habe das falls ich das tue ich in der Lektion am Dienstag nichts mehr zu tun haben werde. Am Wertpapierportfolio Projekt haben wir witergearbeitet haben aber einen Grossteil der Zeit recherchiert wie wir es am besten Umsetzen indem wir GithHub Copilot befragten und Forums browsten. Nächstes mal müssen wir das Programmieren abschliessen und mit dem Testen beginnen.
+
+## Planung 21.11.2025
+- [ ] Das Projekt fertig programmieren
+- [ ] Die Testfallspezifikationen beenden
+- [ ] Mit dem Testen beginnen
