@@ -58,6 +58,14 @@ Ich habe am Modul noch einen Auftrag nachholen müssen und habe ein bisschen vor
 Am Modul habe ich nicht weitergearbeitet da ich realisiert habe das falls ich das tue ich in der Lektion am Dienstag nichts mehr zu tun haben werde. Am Wertpapierportfolio Projekt haben wir witergearbeitet haben aber einen Grossteil der Zeit recherchiert wie wir es am besten Umsetzen indem wir GithHub Copilot befragten und Forums browsten. Nächstes mal müssen wir das Programmieren abschliessen und mit dem Testen beginnen.
 
 ## Planung 21.11.2025
-- [ ] Das Projekt fertig programmieren
-- [ ] Die Testfallspezifikationen beenden
+- [x] Das Projekt fertig programmieren
+- [x] Die Testfallspezifikationen beenden
 - [ ] Mit dem Testen beginnen
+
+## 21.11.2025
+Das Programm ist schon fast beendet und die Testfallspezifikationen sind so weit wie möglich geschrieben. Spezifisch haben wir einen Breaker implementiert falls man falsche Eingaben hat und nutzlose Teile des Codes und Fälle welche nie vorkommen können gelöscht. Herauszufinden welche Teile des Codes wir kürzen konnten und welche nötig dafür waren dass er funktioniert.
+
+## Planung 28.11.2025
+- [ ] Die Testfallspezifikationen fertig spezifizieren
+- [ ] Das Testen beenden
+- [ ] Allfällige Fehler korrigieren 
