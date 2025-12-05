@@ -74,6 +74,14 @@ Das Programm ist schon fast beendet und die Testfallspezifikationen sind so weit
 Die Planung war sinnlos da wir die angegebenen Themen schon am Mittwoch abschliessen mussten und das auch getan haben. Anstelle dessen haben wir heute die Präsentation vorbereitet. Ich sollte die Planung mit der Planung des Projekts übereinstimmen falls ich noch einmal an einem arbeiten sollte. Ansonsten ging die Arbeit heute sehr gut.
 
 ## Planung 5.12.2025
-- [ ] Die Lastenhefter welche mein Vater für ein Projekt vorbereitet hat durchlesen
-- [ ] Mich für eines der Projekte entscheiden
+- [x] Die Lastenhefter welche mein Vater für ein Projekt vorbereitet hat durchlesen
+- [x] Mich für eines der Projekte entscheiden
 - [ ] Mit dem Informieren beginnen
+
+## 5.12.2025
+Ich habe die Lastenhefter durchgelesen und mich dafür entschieden ein "KI-basiertes Bildgenerierungstool für Opalschmuck" zu machen und nicht den "Interaktiven KI-gestützten Planungsassisstenten" da es mir intuitiver erscheint. Die Anforderungsanalyse muss ich noch schreiben und dann mit ihm anschauen. Einige der angesprochenen Themen sind noch recht komplex und ich werde dies auch anschauen müssen.
+
+## Planung 12.12.2025
+- [ ] Das Lastenheft genauer anschauen und durchlesen
+- [ ] Die Anforderungsanalyse schreiben
+- [ ] Mögliche Fragen notieren
