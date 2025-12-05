@@ -74,6 +74,6 @@ Das Programm ist schon fast beendet und die Testfallspezifikationen sind so weit
 Die Planung war sinnlos da wir die angegebenen Themen schon am Mittwoch abschliessen mussten und das auch getan haben. Anstelle dessen haben wir heute die Präsentation vorbereitet. Ich sollte die Planung mit der Planung des Projekts übereinstimmen falls ich noch einmal an einem arbeiten sollte. Ansonsten ging die Arbeit heute sehr gut.
 
 ## Planung 5.12.2025
-- [ ] Die Lasterheften welche mein Vater für ein Projekt vorbereitet hat durchlesen
+- [ ] Die Lastenhefter welche mein Vater für ein Projekt vorbereitet hat durchlesen
 - [ ] Mich für eines der Projekte entscheiden
 - [ ] Mit dem Informieren beginnen
