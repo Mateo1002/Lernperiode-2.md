@@ -82,6 +82,14 @@ Die Planung war sinnlos da wir die angegebenen Themen schon am Mittwoch abschlie
 Ich habe die Lastenhefter durchgelesen und mich dafür entschieden ein "KI-basiertes Bildgenerierungstool für Opalschmuck" zu machen und nicht den "Interaktiven KI-gestützten Planungsassisstenten" da es mir intuitiver erscheint. Die Anforderungsanalyse muss ich noch schreiben und dann mit ihm anschauen. Einige der angesprochenen Themen sind noch recht komplex und ich werde dies auch anschauen müssen.
 
 ## Planung 12.12.2025
-- [ ] Das Lastenheft genauer anschauen und durchlesen
-- [ ] Die Anforderungsanalyse schreiben
-- [ ] Mögliche Fragen notieren
+- [x] Das Lastenheft genauer anschauen und durchlesen
+- [x] Die Anforderungsanalyse schreiben
+- [x] Mögliche Fragen notieren
+
+## 12.12.2025
+Ich habe die Anforderungsanalyse geschrieben und werde sie diese Woche noch mit meinem Vater besprechen. Da der Outcome der Besprechung mir noch nicht klar ist kann ich keine genaue Planung für die nächste Woche machen und sie wird deshalb recht unbestimmt. Das analysieren war einfach und die Analyse hatte ich schnell geschrieben also konnte ich noch ein bisschen an den Modulen vorarbeiten.
+
+## Planung 19.12.2025
+- [ ] Entscheidungen treffen
+- [ ] Planung schreiben
+- [ ] Andere aufkommende Aufgaben bewältigen
