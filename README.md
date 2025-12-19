@@ -5,7 +5,7 @@ Name: Mateo Röthenmund
 
 ## Grob-Planung
 ### Noten
-Wir haben bisher noch keine Noten erhalten
+Mein bisheriger Notenschnitt ist 4.5. Ich möchte ihn idealer Weise noch höher bringen.
 
 ### Veränderungen
 Mehr zentralisiert an einem Projekt arbeiten anstatt einige kleinere zu beginnen.
@@ -90,6 +90,12 @@ Ich habe die Lastenhefter durchgelesen und mich dafür entschieden ein "KI-basie
 Ich habe die Anforderungsanalyse geschrieben und werde sie diese Woche noch mit meinem Vater besprechen. Da der Outcome der Besprechung mir noch nicht klar ist kann ich keine genaue Planung für die nächste Woche machen und sie wird deshalb recht unbestimmt. Das analysieren war einfach und die Analyse hatte ich schnell geschrieben also konnte ich noch ein bisschen an den Modulen vorarbeiten.
 
 ## Planung 19.12.2025
-- [ ] Entscheidungen treffen
+- [x] Mit dem Informieren beginnen
 - [ ] Planung schreiben
 - [ ] Andere aufkommende Aufgaben bewältigen
+
+## 19.12.2025
+Das Informieren hat länger gebraucht als erwartet also konnte ich leider bisher mit der Planung oder dem Programmieren noch nicht beginnen. Mühsam war das ich Visual Studio erneut herunterladen musste da meine Visual Studio Express Lizenz heute ablief. Ansonsten ging der Arbeitsprzess recht langsam voran obwohl nur wenig abgelenkt war.
+
+## Lernperiode Reflexion
+In dieser Lernperiode habe ich zu Beginn nicht wirklich viel gemancht sondern fast nur an den Modulen vor- oder nachgearbeitet. Aber gegen Ende habe ich ein Projekt begonnen welches mein Vater mir aufgetragen hat ich daran aber noch nicht weit fortgeschritten bin. Also werde ich in der nächsten Lernperiode daran arbeiten. Ich habe während dem Lernatelier zwar gute Arbeit geleistet aber nicht wirklich Zielgerichtet gearbeitet.
